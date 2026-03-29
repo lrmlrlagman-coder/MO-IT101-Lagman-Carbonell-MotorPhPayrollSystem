@@ -1,6 +1,6 @@
 🏢 MotorPH Payroll System
 
-Project Plan:
+Project Plan: https://docs.google.com/spreadsheets/d/1HmAex0CIK5rCfxiiHs29GMdyLMaPpJotdfesXYioCn0/edit?usp=sharing
 
 File Location: src/motorph/payroll/system | MotorPHPayrollSystem.java | motorph_data.csv
 
